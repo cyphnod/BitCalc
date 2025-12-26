@@ -1,0 +1,74 @@
+## Visual studio / VS code
+.vs/
+.vscode/
+
+## build results
+[Bb]in/
+[Oo]bg/
+
+## User-specific file
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+
+## Debug / Release folders
+[Dd]ebug/
+[Rr]elease/
+x64/
+x86/
+ARM/
+ARM64/
+
+## Rider / Jetbrains
+.idea/
+
+## Mono / Xamarin
+*.pidb
+*.svclog
+*.pdb
+
+## .NET core
+project.lock.json
+project.fragment.lock.json
+artifacts/
+
+## NuGet
+*.nupkg
+*.snupkg
+.nuget/
+packages/
+
+## Logs
+*.log
+
+## OS generated files
+.DS_Store
+Thumbs.db
+ehthumbs.db
+
+## Temp files
+*.tmp
+*.temp
+*.bak
+*.swp
+
+## Publish output
+publish/
+
+## Test results
+TestResults/
+
+## Resharper
+_ReSharper*/
+*.DotSettings.user
+
+## Windows Installer files
+*.msi
+*.msix
+*.msm
+*.msp
+
+## Certificates
+*.pfx
+*.cer
