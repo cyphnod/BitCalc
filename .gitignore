@@ -72,3 +72,5 @@ _ReSharper*/
 ## Certificates
 *.pfx
 *.cer
+
+BitCalc_v1/Properties/PublishProfiles/
